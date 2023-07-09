@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NovelRepositories", "NovelRepositories\NovelRepositories.csproj", "{F7AA5680-E3E5-4B50-A82A-F5A695410D94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NovelServices", "NovelServices\NovelServices.csproj", "{AB22ACD3-F479-4DCC-89B8-A63347349538}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NovelControllers", "NovelControllers\NovelControllers.csproj", "{1A195D53-6B7E-4BAA-B35E-DDF4F0A16922}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7AA5680-E3E5-4B50-A82A-F5A695410D94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7AA5680-E3E5-4B50-A82A-F5A695410D94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7AA5680-E3E5-4B50-A82A-F5A695410D94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7AA5680-E3E5-4B50-A82A-F5A695410D94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB22ACD3-F479-4DCC-89B8-A63347349538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB22ACD3-F479-4DCC-89B8-A63347349538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB22ACD3-F479-4DCC-89B8-A63347349538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB22ACD3-F479-4DCC-89B8-A63347349538}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A195D53-6B7E-4BAA-B35E-DDF4F0A16922}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A195D53-6B7E-4BAA-B35E-DDF4F0A16922}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A195D53-6B7E-4BAA-B35E-DDF4F0A16922}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A195D53-6B7E-4BAA-B35E-DDF4F0A16922}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
